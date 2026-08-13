@@ -18,6 +18,9 @@ export const metadata: Metadata = {
     template: "%s | Frutería POS",
   },
   description: "Punto de venta para frutería",
+  icons: {
+    icon: "/icons8-frutas-32.png",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
