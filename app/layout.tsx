@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   description: "Punto de venta para frutería",
   icons: {
-    icon: "/icons8-frutas-32.png",
+    icon: "/icons8-frutas-32.png?v=2",
   },
 };
 
